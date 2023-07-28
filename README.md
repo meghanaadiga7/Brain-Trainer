@@ -1,1 +1,3 @@
-# Brain-Trainer-
+# brain-trainer
+
+Android setup with gradle configuration (4.2.1) for brainer trianer game project...
