@@ -5,4 +5,5 @@ This is a simple game application which consists of different categories of simp
 
 # Screenshots
 
-# Setting up Android Studio
+# Running the application 
+To run the application in android studio check here https://mobikul.com/knowledgebase/open-application-run-android-studio/
