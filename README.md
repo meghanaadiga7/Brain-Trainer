@@ -5,21 +5,19 @@ This is a simple game application which consists of different categories of simp
 
 # Screenshots
 # 1
-![Screenshot_20230805-195354_Brain Trainer](https://github.com/meghanaadiga7/Brain-Trainer/assets/106051990/513a7114-3e85-4fd4-93bc-2ef1b4f0f3ce)
+<img width="230" alt="BT1" src="https://github.com/meghanaadiga7/Brain-Trainer/assets/106051990/2ed8f6f6-61f1-45d0-bdb2-2e2f8cd7361d">
 
 # 2
-![Screenshot_20230805-195217_Brain Trainer](https://github.com/meghanaadiga7/Brain-Trainer/assets/106051990/d7b97c66-4531-4732-b749-52cdc480cc4d)
+<img width="225" alt="BT2" src="https://github.com/meghanaadiga7/Brain-Trainer/assets/106051990/34cd5d05-8f93-4d89-9486-d709f29f47c5">
 
 # 3
-![Screenshot_20230805-195228_Brain Trainer](https://github.com/meghanaadiga7/Brain-Trainer/assets/106051990/5b431141-5dce-41b3-8b73-b9237220b86f)
+<img width="224" alt="BT3" src="https://github.com/meghanaadiga7/Brain-Trainer/assets/106051990/cff62390-5711-4bdb-85a3-00cb19ff954d">
 
 # 4
-![Screenshot_20230805-195248_Brain Trainer](https://github.com/meghanaadiga7/Brain-Trainer/assets/106051990/322ee942-e30a-4806-9627-4d4114c6c422)
+<img width="243" alt="BT4" src="https://github.com/meghanaadiga7/Brain-Trainer/assets/106051990/1bbd6391-e418-49d4-afc8-112459a4c7c6">
 
 # 5
-![Screenshot_20230805-195334_Brain Trainer](https://github.com/meghanaadiga7/Brain-Trainer/assets/106051990/c62020db-316e-4376-babe-64a3fc598694)
-![Brain-trainer-2](https://github.com/meghanaadiga7/Brain-Trainer/assets/106051990/2660bc25-9a5b-4593-a4f5-8e58468063b5)
-
+<img width="226" alt="BT5" src="https://github.com/meghanaadiga7/Brain-Trainer/assets/106051990/7f208f69-1ef5-4ff7-8c54-6d160bd37e5e">
 
 # Running the application 
 To run the application in android studio check here https://mobikul.com/knowledgebase/open-application-run-android-studio/
