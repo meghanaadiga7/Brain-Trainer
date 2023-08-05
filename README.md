@@ -18,6 +18,7 @@ This is a simple game application which consists of different categories of simp
 
 # 5
 ![Screenshot_20230805-195334_Brain Trainer](https://github.com/meghanaadiga7/Brain-Trainer/assets/106051990/c62020db-316e-4376-babe-64a3fc598694)
+![Brain-trainer-2](https://github.com/meghanaadiga7/Brain-Trainer/assets/106051990/2660bc25-9a5b-4593-a4f5-8e58468063b5)
 
 
 # Running the application 
