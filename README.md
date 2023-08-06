@@ -20,4 +20,4 @@ This is a simple game application which consists of different categories of simp
 <img width="229" alt="5" src="https://github.com/meghanaadiga7/Brain-Trainer/assets/106051990/8f0e7ed3-85d7-4f7d-ba9a-c68ee0f4d149">
 
 # Running the application 
-To run the application in android studio check here https://mobikul.com/knowledgebase/open-application-run-android-studio/
+To run the application in android studio check https://mobikul.com/knowledgebase/open-application-run-android-studio/
